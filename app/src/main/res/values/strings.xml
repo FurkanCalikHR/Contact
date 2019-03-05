@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Contact</string>
+    <string name="naam">Naam</string>
+    <string name="e_mail">E-mail</string>
+    <string name="onderwerp">Onderwerp</string>
+    <string name="uw_bericht">Uw bericht</string>
+    <string name="verzenden">Verzenden</string>
 </resources>
