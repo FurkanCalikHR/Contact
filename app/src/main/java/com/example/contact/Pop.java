@@ -17,6 +17,6 @@ public class Pop extends Activity {
         int width = dm.widthPixels;
         int height = dm.heightPixels;
 
-        
+
     }
 }
