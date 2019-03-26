@@ -12,5 +12,5 @@
         android:layout_alignParentTop="true"
         android:layout_marginStart="69dp"
         android:layout_marginTop="308dp"
-        android:text="Your message has been succesfully sent" />
+        android:text="@string/your_message_has_been_succesfully_sent" />
 </RelativeLayout>

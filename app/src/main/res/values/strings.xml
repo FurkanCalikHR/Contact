@@ -5,4 +5,5 @@
     <string name="onderwerp">Onderwerp</string>
     <string name="uw_bericht">Uw bericht</string>
     <string name="verzenden">Verzenden</string>
+    <string name="your_message_has_been_succesfully_sent">Your message has been succesfully sent</string>
 </resources>
